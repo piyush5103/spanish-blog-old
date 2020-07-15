@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Piyush Pahuja - A DAIS Spanish Language Blog",
+  "siteUrl": "https://piyushpahujadaisspanish.netlify.app/",
+  "description": "Aqui vas a encontrar varias puertas de enlace diferentes para la imersion en la cultura espanola a traves de, por ejemplo, peliculas, programas de television, musica, arte y muchos mas.\n\nEstoy muy emocionado de poder compartir mi viaje como estudiante y entusiasta del español, y espero que te compar esa emoción durante las próximas semanas.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "¡Bienvenido!",
+    "description": "Bienvenido a mi blog.\n\nAqui vas a encontrar varias puertas de enlace diferentes para la imersion en la cultura espanola a traves de, por ejemplo, peliculas, programas de television, musica, arte y muchos mas.\n\nEstoy muy emocionado de poder compartir mi viaje como estudiante y entusiasta del español, y espero que te compar esa emoción durante las próximas semanas.\n\nMuchas gracias y nos vemos pronto! :)"
   }
 }
