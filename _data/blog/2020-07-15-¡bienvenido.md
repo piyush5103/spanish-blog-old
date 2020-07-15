@@ -3,7 +3,7 @@ template: BlogPost
 path: /bienvenidos
 date: 2020-06-20T14:42:55.590Z
 title: ¡Bienvenido!
-metaDescription: Hello
+metaDescription: Bienvenido a mi blog.
 ---
 Bienvenido a mi blog.
 
