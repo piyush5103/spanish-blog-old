@@ -11,4 +11,4 @@ Aqui vas a encontrar varias puertas de enlace diferentes para la imersion en la 
 
 Estoy muy emocionado de poder compartir mi viaje como estudiante y entusiasta del español, y espero que te compar esa emoción durante las próximas semanas.
 
-Muchas gracias y nos vemos pronto! :)
+Muchas gracias y nos vemos pronto! :-)
